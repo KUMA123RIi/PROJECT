@@ -1,1 +1,2 @@
-# PROJECT
+# PROJECT 
+The purpose of this report is to provide a detailed analysis of the development and features of the restaurant website. A restaurant website serves as a digital platform to showcase the restaurant's offerings, such as its menu, ambiance, special deals, and contact information. In today's digital era, a well-designed and functional website is essential for attracting customers and enhancing the restaurant's visibility in the competitive food and beverage industry
